@@ -49,6 +49,8 @@ Before you can start using the Llama2 Medical Bot, make sure you have the follow
 
 5. Set up the necessary paths and configurations in your project, including the `DB_FAISS_PATH` variable and other configurations as per your needs.
 
+6. for the llama 2 model TheBloke/Llama-2-7B-Chat-GGML
+
 ## Getting Started
 
 To get started with the Llama2 Medical Bot, you need to:
